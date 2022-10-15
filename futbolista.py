@@ -1,5 +1,5 @@
 import persona
-import deportist
+import deportista
 
 class Futbolista (persona, deportista):
     
